@@ -4,7 +4,7 @@
 // This is used to convert the analog voltage reading to milliGauss
 // For A1301: 2.5mV = 1Gauss, and 1024 analog steps = 5V, so 1 step = 1953mG
 // For A1302: 1.3mV = 1Gauss, and 1024 analog steps = 5V, so 1 step = 3756mG
-
+#define toimiva 2
 #define TOMILLIGAUSS 1.953125
 // #define TOMILLIGAUSS 3.756010
 
